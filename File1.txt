@@ -1,2 +1,2 @@
 name: sam
-psw: ***REMOVED***
+psw: 
